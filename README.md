@@ -1,6 +1,6 @@
 # as-salāmu ʿalaykum 👋
 
-I have been exploring how the latest technology can be used to support communities, including the Muslim ummah. As a DevOps professional, I have been working on building developer platforms on Kubernetes for over a year. 
+I have been exploring how the latest technology can be used to support communities, including the Muslim ummah. As a DevOps professional, I have been working on building developer platforms on Kubernetes for many years. 
 
 Please feel free to ask me any questions you may have about this topic.
 
