@@ -1,6 +1,6 @@
 ## as-salāmu ʿalaykum 👋
 
-I am a Swedish convert to Islam of 20 years and I am passionate about exploring how the latest technology can be used to support the Muslim ummah. As a DevOps professional, I have been diving deep into building developer platforms on Kubernetes over the past years. Please feel free to ask me any questions you may have about this topic.
+I am a Muslim who converted to Islam 20 years ago in Sweden. I am passionate about exploring how the latest technology can be used to support the Muslim ummah. As a DevOps professional, I have been diving deep into building developer platforms on Kubernetes over the past year. Please feel free to ask me any questions you may have about this topic.
 
 - 🔭 I’m currently working on: https://github.com/edenmind/OpenArabic
 - 🌱 I’m currently learning: Machine Larning
