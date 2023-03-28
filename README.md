@@ -6,7 +6,7 @@ DevOps expert specializing in Kubernetes and developer platforms, with a passion
 
 🌱 I am constantly seeking to broaden my knowledge of technology and I am currently focusing on **Machine Learning**.
 
-👯 I am eager to collaborate on **Islamic projects** that aim to support the ummah.
+🫶🏼 I am eager to collaborate on **Islamic projects** that aim to support the **ummah**.
 
 🤔 I am looking for assistance with the development of OpenArabic (see the link above).
 
