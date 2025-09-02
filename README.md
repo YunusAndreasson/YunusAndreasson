@@ -1,5 +1,3 @@
-# as-salāmu ʿalaykum 👋
-
 - Bismillah
 - Coffee
 - Plan
