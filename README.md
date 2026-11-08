@@ -1,6 +1,4 @@
 - Bismillah
 - Coffee
-- Plan
 - Ship
 - Rip
-- Repeat
